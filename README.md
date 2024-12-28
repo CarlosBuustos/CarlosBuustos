@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/CarlosBuustos/CarlosBuustos/main/Resources/Name.svg" width="50" />
+<img src="https://raw.githubusercontent.com/CarlosBuustos/CarlosBuustos/main/Resources/Name.svg" width="150" height="auto" />
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
