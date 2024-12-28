@@ -1,6 +1,5 @@
-
-<h1>	<img alt="Title" src="[https://CarlosBuustos/Resources/Name.svg](https://raw.githubusercontent.com/CarlosBuustos/CarlosBuustos/refs/heads/main/Resources/Name.svg)"/>
-	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<img src="https://raw.githubusercontent.com/CarlosBuustos/CarlosBuustos/main/Resources/Name.svg" width="50" />
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
