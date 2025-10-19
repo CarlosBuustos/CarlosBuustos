@@ -6,7 +6,7 @@
   <h1>Hi there, I'm <a href="https://github.com/CarlosBuustos">Carlos 🔍</a></h1>
   <!--  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
 </div>
-<img src="https://komarev.com/ghpvc/?username=CarlosBuustos&label=Profile%20Visits&style=for-the-badge&color=blue" alt="Profile Visits"/>
+<img src="https://img.shields.io/badge/Profile%20Visits-5437-blue?style=for-the-badge" alt="Profile Visits"/>
 
 
 <div> 
