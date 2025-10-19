@@ -3,26 +3,45 @@
 ![Carlos Buustos](Resources/CarlosBuustos.gif)
 
 <div>
-  <h1>Hi there, I'm <a href="https://github.com/CarlosBuustos">Carlos 🔍</a></h1>
+  <h1>Hi there, I'm <a href="https://github.com/CarlosBuustos">Carlos 🔍</a></h1> 
   <!--  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
+  
 </div>
 <img src="https://img.shields.io/badge/Profile%20Visits-5437-blue?style=for-the-badge" alt="Profile Visits"/>
+<!--  <img src="https://komarev.com/ghpvc/?username=CarlosBuustos&label=Profile%20Visits&style=for-the-badge&color=blue" alt="Profile Visits"/>   -->
 
 
 <div> 
-I am a CS+Physics undergradued student currently based in salamanca, Spain. Deeply passionate about deep Learning, I have been doing different international internship abroud in places such as Kracow() and Pavia(). and its aplications in research and industry. I also creator of "Scientific Chronics", a personal blog where I weeken elaborate about scientific topics or stories. I'm not extremely active on my GitHub, but feel free to look around :)
+I am a CS+Physics undergraduate student currently based in <img src="resources/espana.png" width="13"/> <b>Salamanca, Spain.</b> Deeply passionate about Deep Learning and Machine Learning, I've been part of different international internships in places such as  
+ <img src="resources/polonia.png" width="13"/> <b>Kracow</b> and <img src="resources/italia.png" width="13"/> <b>Pavia</b>. I'm also the creator of <a href="https://carlosbustos.hashnode.dev/" target="_blank">Scientific Chronics</a>
+, a personal blog where I weekly elaborate articles about scientific topics or stories. I'm not extremely active on my GitHub, but feel free to look around :)
 </div>
 
 <div>
-   Projects:
+   <h2>Projects:</h2>
+   <ul>
+  <li>
+    <a href="https://carlosbustos.hashnode.dev/" target="_blank">
+      <b>
+        <img src="resources/espana.png" width="20" style="vertical-align:middle;" alt="flag" />
+        Scientific Chronics
+      </b>
+    </a>
+    <br/>
+    <i>Historias y artículos sobre ciencia y tecnología.</i>
+  </li>
+</ul>
 
-   bullet (emoji) 
+
+
+   bullet (emoji) Renfe fails (Unfinished)
+   bullet (emoji) CNN IFJ
+   bullet (emoji) Hypatia 
+   bullet (emoji) Fast Fourier Trasnformation
 </div>
 
 <div>
-<h1>
-GET IN TOUCH
-</h1>
+<h2>Get in Touch</h2>
 </div>
 
 
