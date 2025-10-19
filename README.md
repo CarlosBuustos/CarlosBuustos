@@ -12,8 +12,8 @@
 
 
 <div> 
-I am a CS+Physics undergraduate student currently based in <img src="resources/espana.png" width="13"/> <b>Salamanca, Spain.</b> Deeply passionate about Deep Learning and Machine Learning, I've been part of different international internships in places such as  
- <img src="resources/polonia.png" width="13"/> <b>Kracow</b> and <img src="resources/italia.png" width="13"/> <b>Pavia</b>. I'm also the creator of <a href="https://carlosbustos.hashnode.dev/" target="_blank">Scientific Chronics</a>
+I am a CS+Physics undergraduate student currently based in <img src="Resources/espana.png" width="13"/> <b>Salamanca, Spain.</b> Deeply passionate about Deep Learning and Machine Learning, I've been part of different international internships in places such as  
+ <img src="Resources/polonia.png" width="13"/> <b>Kracow</b> and <img src="Resources/italia.png" width="13"/> <b>Pavia</b>. I'm also the creator of <a href="https://carlosbustos.hashnode.dev/" target="_blank">Scientific Chronics</a>
 , a personal blog where I weekly elaborate articles about scientific topics or stories. I'm not extremely active on my GitHub, but feel free to look around :)
 </div>
 
@@ -23,7 +23,7 @@ I am a CS+Physics undergraduate student currently based in <img src="resources/e
   <li>
     <a href="https://carlosbustos.hashnode.dev/" target="_blank">
       <b>
-        <img src="resources/espana.png" width="20" style="vertical-align:middle;" alt="flag" />
+        <img src="Resources/espana.png" width="20" style="vertical-align:middle;" alt="flag" />
         Scientific Chronics
       </b>
     </a>
