@@ -12,7 +12,7 @@
 
 
 <div> 
-I am a CS+Physics undergraduate student currently based in <img src="Resources/espana.png" width="13"/> <b>Salamanca, Spain.</b> Deeply passionate about Deep Learning and Machine Learning, I've been part of different international internships in places such as  
+I am a CS+Physics undergraduate student currently based in <img src="Resources/espana.png" width="13"/> <b>Salamanca, Spain.</b> Deeply passionate about Deep Learning and Machine Learning, I took part of different international internships in places such as  
  <img src="Resources/polonia.png" width="13"/> <b>Kracow</b> and <img src="Resources/italia.png" width="13"/> <b>Pavia</b>. I'm also the creator of <a href="https://carlosbustos.hashnode.dev/" target="_blank">Scientific Chronics</a>
 , a personal blog where I weekly elaborate articles about scientific topics or stories. I'm not extremely active on my GitHub, but feel free to look around :)
 </div>
@@ -23,21 +23,39 @@ I am a CS+Physics undergraduate student currently based in <img src="Resources/e
   <li>
     <a href="https://carlosbustos.hashnode.dev/" target="_blank">
       <b>
-        <img src="Resources/espana.png" width="20" style="vertical-align:middle;" alt="flag" />
-        Scientific Chronics
+        ✍🏻 Scientific Chronics
       </b>
     </a>
     <br/>
-    <i>Historias y artículos sobre ciencia y tecnología.</i>
+    <i>A Blog where I share my journey, thoughts, and learning</i>
   </li>
+
+   <li>
+    <a href="https://github.com/CarlosBuustos/Renfe.fails" target="_blank">
+      <b>🚅 Renfe.fails (unfinished)</b>
+    </a>
+    <br/>
+    <i>Web where I visibly show the delays and cancellations of the Spanish train company Renfe</i>
+  </li>
+
+  <li>
+  <a href="https://github.com/CarlosBuustos/Particle-Hunt" target="_blank">
+    <b>⚛️ Particle Hunt – Hypathia</b>
+  </a>
+  <br/>
+  <i>Identifying high–energy particles in the outer detector regions. Run events 1 & 2 (2021) CMS experiment, CERN</i>
+</li>
+
+<li>
+  <a href="https://github.com/CarlosBuustos/Fourier-Lab" target="_blank">
+    <b>〰️ Fourier Transformation</b>
+  </a>
+  <br/>
+  <i>Interactive experiments visualizing how complex signals decompose into simpler waveforms through the Fourier Transform fft->Fast Fourier Transformation</i>
+</li>
+
 </ul>
 
-
-
-   bullet (emoji) Renfe fails (Unfinished)
-   bullet (emoji) CNN IFJ
-   bullet (emoji) Hypatia 
-   bullet (emoji) Fast Fourier Trasnformation
 </div>
 
 <div>
