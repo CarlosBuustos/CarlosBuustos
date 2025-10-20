@@ -16,10 +16,9 @@ I am a CS+Physics undergraduate student currently based in <img src="Resources/e
  <img src="Resources/polonia.png" width="13"/> <b>Kracow</b> and <img src="Resources/italia.png" width="13"/> <b>Pavia</b>. I'm also the creator of <a href="https://carlosbustos.hashnode.dev/" target="_blank">Scientific Chronics</a>
 , a personal blog where I weekly elaborate articles about scientific topics or stories. I'm not extremely active on my GitHub, but feel free to look around :)
 </div>
-
-<table>
+<!--<table>
   <tr>
-    <td>
+    <td>-->
       <h2>Projects:</h2>
       <ul>
         <li>
@@ -49,13 +48,14 @@ I am a CS+Physics undergraduate student currently based in <img src="Resources/e
           through the Fast Fourier Transform -> fft</i>
         </li>
       </ul>
+      <!--
     </td>
     <td align="right" valign="bottom" width="35%">
       <img 
         src="Resources/Desktop.gif" width="280" alt="workspace gif">
     </td>
   </tr>
-</table>
+</table>-->
 
 
 
