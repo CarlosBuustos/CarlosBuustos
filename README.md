@@ -17,46 +17,47 @@ I am a CS+Physics undergraduate student currently based in <img src="Resources/e
 , a personal blog where I weekly elaborate articles about scientific topics or stories. I'm not extremely active on my GitHub, but feel free to look around :)
 </div>
 
-<div>
-   <h2>Projects:</h2>
-   <ul>
-  <li>
-    <a href="https://carlosbustos.hashnode.dev/" target="_blank">
-      <b>
-        ✍🏻 Scientific Chronics
-      </b>
-    </a>
-    <br/>
-    <i>A Blog where I share my journey, thoughts, and learning</i>
-  </li>
+<table>
+  <tr>
+    <td>
+      <h2>Projects:</h2>
+      <ul>
+        <li>
+          <a href="https://carlosbustos.hashnode.dev/" target="_blank">
+            <b>✍🏻 Scientific Chronics</b>
+          </a><br/>
+          <i>A Blog where I share my journey, thoughts, and learning</i>
+        </li>
+        <li>
+          <a href="https://github.com/CarlosBuustos/Renfe.fails" target="_blank">
+            <b>🚅 Renfe.fails (unfinished)</b>
+          </a><br/>
+          <i>Web where I visibly show the delays and cancellations of the Spanish train company Renfe</i>
+        </li>
+        <li>
+          <a href="https://github.com/CarlosBuustos/Particle-Hunt" target="_blank">
+            <b>⚛️ Particle Hunt – Hypathia</b>
+          </a><br/>
+          <i>Identifying high–energy particles in the outer detector regions. 
+          Run events 1 & 2 (2021) CMS experiment, CERN</i>
+        </li>
+        <li>
+          <a href="https://github.com/CarlosBuustos/Fourier-Lab" target="_blank">
+            <b>〰️ Fourier Transformation</b>
+          </a><br/>
+          <i>Interactive experiments visualizing how complex signals decompose into simpler waveforms 
+          through the Fast Fourier Transform -> fft</i>
+        </li>
+      </ul>
+    </td>
+    <td align="right" valign="bottom" width="35%">
+      <img 
+        src="Resources/Desktop.gif" width="280" alt="workspace gif">
+    </td>
+  </tr>
+</table>
 
-   <li>
-    <a href="https://github.com/CarlosBuustos/Renfe.fails" target="_blank">
-      <b>🚅 Renfe.fails (unfinished)</b>
-    </a>
-    <br/>
-    <i>Web where I visibly show the delays and cancellations of the Spanish train company Renfe</i>
-  </li>
 
-  <li>
-  <a href="https://github.com/CarlosBuustos/Particle-Hunt" target="_blank">
-    <b>⚛️ Particle Hunt – Hypathia</b>
-  </a>
-  <br/>
-  <i>Identifying high–energy particles in the outer detector regions. Run events 1 & 2 (2021) CMS experiment, CERN</i>
-</li>
-
-<li>
-  <a href="https://github.com/CarlosBuustos/Fourier-Lab" target="_blank">
-    <b>〰️ Fourier Transformation</b>
-  </a>
-  <br/>
-  <i>Interactive experiments visualizing how complex signals decompose into simpler waveforms through the Fourier Transform fft->Fast Fourier Transformation</i>
-</li>
-
-</ul>
-
-</div>
 
 <div>
 <h2>Get in Touch</h2>
