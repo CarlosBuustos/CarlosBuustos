@@ -35,6 +35,13 @@ I am a CS+Physics undergraduate student currently based in <img src="Resources/e
           <i>A Blog where I share my journey, thoughts, and learning</i>
         </li>
         <li>
+          <a href="https://github.com/CarlosBuustos/MamoGraph_AI" target="_blank">
+            <b>🧑🏻‍⚕️ Mamograph.AI</b>
+          </a>
+          <br/>
+          <i>Deep Learning AI tool for the early detection of breast cancer</i>
+        </li>
+        <li>
           <a href="https://github.com/CarlosBuustos/Renfe.fails" target="_blank">
             <b>🚅 Renfe.fails (unfinished)</b>
           </a><br/>
