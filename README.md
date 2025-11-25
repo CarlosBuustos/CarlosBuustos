@@ -29,7 +29,7 @@ I am a CS+Physics undergraduate student currently based in <img src="Resources/e
           <i>Deep Neural Network (DNN) for Identifying Particle Tracks in Muon–Electron Collision</i>
         </li>
         <li>
-          <a href="https://carlosbustos.hashnode.dev/" target="_blank">
+          <a href="https://carlosbustos.site" target="_blank">
             <b>✍🏻 Scientific Chronics</b>
           </a><br/>
           <i>A Blog where I share my journey, thoughts, and learning</i>
