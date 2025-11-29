@@ -19,7 +19,7 @@ I am a CS+Physics undergraduate student currently based in <img src="Resources/e
 <!--<table>
   <tr>
     <td>-->
-      <h2>Projects:</h2>
+      <h2>Selected Projects:</h2>
       <ul>
         <li>
           <a href="https://github.com/CarlosBuustos/IFJ_Neuronal_Network" target="_blank">
