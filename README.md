@@ -12,7 +12,7 @@
 
 
 <div> 
-I am a CS+Physics undergraduate student currently based in <img src="Resources/espana.png" width="13"/> <b>Salamanca, Spain.</b> Deeply passionate about Machine Learning and Neural Networks, I took part of different international internships in places such as  
+I am a CS+Physics undergraduate student currently based in <img src="Resources/espana.png" width="13"/> <b>Salamanca, Spain.</b> Deeply passionate about Machine Learning and Neural Networks, I took part in different international internships in places such as  
  <img src="Resources/polonia.png" width="13"/> <b>Kracow</b> and <img src="Resources/italia.png" width="13"/> <b>Pavia</b>. I'm also the creator of <a href="https://carlosbustos.site" target="_blank">Scientific Chronics</a>
 , a personal blog where I weekly elaborate articles about scientific topics or stories. I'm not extremely active on my GitHub, but feel free to look around :)
 </div>
@@ -58,7 +58,7 @@ I am a CS+Physics undergraduate student currently based in <img src="Resources/e
           <a href="https://github.com/CarlosBuustos/Fourier-Lab" target="_blank">
             <b>〰️ Fourier Transformation</b>
           </a><br/>
-          <i>Interactive experiments visualizing how complex signals decompose into simpler waveforms 
+          <i>Interactive experiments visualising how complex signals decompose into simpler waveforms 
           through the Fast Fourier Transform -> fft</i>
         </li>
       </ul>
